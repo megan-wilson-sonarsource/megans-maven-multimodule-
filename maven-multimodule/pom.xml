@@ -24,6 +24,10 @@
     <aggregate.report.dir>tests/target/site/jacoco-aggregate/jacoco.xml</aggregate.report.dir>
   </properties>
 
+  <properties>
+    <sonar.projectKey>megan-wilson-sonarsource_megans-maven-multimodule-</sonar.projectKey>
+  </properties>
+
   <dependencies>
     <dependency>
       <groupId>com.google.guava</groupId>
