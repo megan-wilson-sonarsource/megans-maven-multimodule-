@@ -12,5 +12,37 @@ public class Module2 {
 
   public void uncovered() {
     System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");    
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
+    System.out.println("This method is not covered");
   }
 }
